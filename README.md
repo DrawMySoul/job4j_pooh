@@ -6,7 +6,7 @@
     - [Queue](#queue)
     - [Topic](#topic)
 - [Build & Run](#build-and-run)
-- [Technologies](#technologies-)
+- [Technologies](#technologies)
 - [Contacts](#contacts)
 
 ## Description
@@ -94,7 +94,7 @@ The GET request should retrieve elements from the weather queue
 
 Directory``src/main/java/`` and file ``ru.job4j.pooh.PoohServer``
 
-## Technologies:
+## Technologies
 
 - Java 17
 - Maven 4.0
